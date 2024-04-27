@@ -1,0 +1,156 @@
+
+
+.navbar{
+    background: repeat;
+    border: 2px solid;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(134, 246, 248);
+    margin: 5px;
+    border-radius: 16px;
+    padding: 0.5rem;
+}
+
+.pp{
+    width: 50px;
+    height: 80px;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+}
+
+
+
+.login-button {
+    background-color: rgba(255, 255, 255, 0.557);
+    color: rgb(0, 0, 0);
+    font-style: 14px;
+    margin: 5px 10px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: 0.3s ;
+}
+.login-button:hover{
+    background-color: rgb(244, 203, 141);
+    color: rgb(0, 0, 0);
+}
+
+#makan{
+    padding: 30px 0;
+    text-align: center;
+    background-color: aqua;
+}
+
+.potot{
+    width: 100px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.me{
+    text-align: center;
+}
+
+.img-about{
+    width: 180px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 0px 10px rgb(233, 229, 205);
+}
+
+.title-about, #idabout {
+   background-color: #a2d9ff;
+    background: 35px;
+}
+
+.prject{
+    background-color: #a2d9ff;
+}
+.title-project{
+    margin: 50px 0;
+}
+.row{
+    text-align: center;
+}
+
+.card{
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card-img-top{
+    border: 5px solid;
+    border-color: cornflowerblue;
+    border-radius: 8px;
+}
+
+.button{
+    background-color: rgb(201, 7, 255);
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    border: rgb(201, 7, 255) solid 5px;
+
+}
+.card-body{
+    width: 245px;
+    background-color: rgb(86, 255, 227);
+    border-radius: 5px;
+    border: 5px solid;
+    border-color: rgb(86, 255, 227);
+}
+
+.testing{
+    margin-top: 15px;
+}
+
+
+
+.testi{
+    justify-content: center;
+    align-items: center;
+
+}
+
+.tes1{
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+    border: rgb(174, 0, 255) solid;
+    border-radius: 10px;
+
+
+}
+.tes2{
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+    border: rgb(174, 0, 255) solid;
+    border-radius: 10px;
+}
+.tes3{
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+    border: rgb(174, 0, 255) solid;
+    border-radius: 10px;
+}
+.d1{
+    text-align: center;
+    justify-content: center;
+    
+}
+.button-1{
+    width: 20px;
+    margin: 2px;
+}
+.title-contact1 #titleig{
+    margin: 2px;
+    display: block;
+}
